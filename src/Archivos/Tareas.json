@@ -1,0 +1,31 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "materia": "operacion y mantenimiento de sistemas",
+      "peticion": "02/03/2021",
+      "entrega": "02/13/2021",
+      "descripcion": "Subir el codigo fuente del proyecto de implantacion con un documento que tenga: portada, resumen del funcionamiento del sistema, la problematica que se resolvio, composicion del sistema",
+      "plataforma": "Aula Virtual",
+      "enlace": "https://aulavirtual.uaa.mx/mod/assign/view.php?id=52961"
+    },
+    {
+      "id": 2,
+      "materia": "Diseño para Moviles",
+      "peticion": "02/02/2021",
+      "entrega": "02/09/2021",
+      "descripcion": "Instalar Android Studio y hacer un reporte del proceso.",
+      "plataforma": "Aula Virtual",
+      "enlace": "https://aulavirtual.uaa.mx/mod/assign/view.php?id=50821"
+    },
+    {
+      "id": 3,
+      "materia": "Metodologias emergentes",
+      "peticion": "02/02/2021",
+      "entrega": "02/05/2021",
+      "descripcion": "Desarrollar un mapa conceptual del video en la plataforma",
+      "plataforma": "LABDC 2020",
+      "enlace": "http://148.211.145.149/moodle/mod/assign/view.php?id=1119"
+    }
+  ]
+}
