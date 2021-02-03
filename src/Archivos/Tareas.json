@@ -2,7 +2,7 @@
   "tareas": [
     {
       "id": 1,
-      "materia": "operacion y mantenimiento de sistemas",
+      "materia": "Operacion y Mantenimiento de Sistemas",
       "peticion": "02/03/2021",
       "entrega": "02/13/2021",
       "descripcion": "Subir el codigo fuente del proyecto de implantacion con un documento que tenga: portada, resumen del funcionamiento del sistema, la problematica que se resolvio, composicion del sistema",
