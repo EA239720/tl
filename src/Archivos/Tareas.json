@@ -26,6 +26,15 @@
       "descripcion": "Desarrollar un mapa conceptual del video en la plataforma",
       "plataforma": "LABDC 2020",
       "enlace": "http://148.211.145.149/moodle/mod/assign/view.php?id=1119"
+    },
+    {
+      "id": 4,
+      "materia": "Tratamiento de datos",
+      "peticion": "02/04/2021",
+      "entrega": "02/05/2021",
+      "descripcion": "En base al link en la plataforma, analiza e indica como esta la situación para alguien que se dedique profesionalmente a esta materia, además da tes análisis de diferentes temas.",
+      "plataforma": "Aula Virtual",
+      "enlace": "https://aulavirtual.uaa.mx/mod/assign/view.php?id=54803"
     }
   ]
 }

@@ -76,7 +76,7 @@ export default class App extends React.Component {
                                         <td>{ tarea.descripcion }</td>
                                         <td><a href={ tarea.enlace }>{ tarea.plataforma }</a></td>
                                     </tr> ) :
-                                    (today - this.date(tarea.entrega) < 0 ) ? (
+                                    (today - this.date(tarea.entrega) <= 0 ) ? (
                                         <tr key = { id } className = { styles.red }>
                                             <td>{ tarea.peticion }</td>
                                             <td>{ tarea.entrega }</td>
